@@ -4,7 +4,6 @@ public class MethodsBasicOne {
 
 	public MethodsBasicOne() {
 		// TODO Auto-generated constructor stub
-		
 	}
 
 	public static void main(String[] args) {
@@ -22,6 +21,7 @@ public class MethodsBasicOne {
 		else {
 			System.out.println("Number is odd");
 		}
+
 	}
 
 }

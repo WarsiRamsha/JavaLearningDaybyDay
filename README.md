@@ -8,9 +8,6 @@
 
 Welcome to my Learning Journey! 🚀
 
-[![GitHub Followers](https://img.shields.io/github/followers/WarsiRamsha?style=social)](https://github.com/WarsiRamsha) <!-- GitHub Followers Badge -->
-
-
 Tech Stack
 👩‍💻 This repository contains solutions to various programming questions implemented in Java 19 using Eclipse IDE (Version: 2022-12).
 
@@ -24,6 +21,10 @@ Solutions
 - Printing a pattern (Pyramid)
 - Determining if a given number is even or odd
 - Fibonnacci Sequence
+
+KeyTakeaways:
+Packages have relevant classes that focuses on solution of different questions.
+
 
 Usage
 Each solution is implemented in a separate Java file. You can compile and run each file individually to see the output or test the functionality.
