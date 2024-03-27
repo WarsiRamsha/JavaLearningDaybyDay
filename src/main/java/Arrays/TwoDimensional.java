@@ -7,7 +7,7 @@ public class TwoDimensional {
 		
 		int [][] TwoDim;
 		TwoDim = new int [3][3] ;			//pressed Tab three times declaring array
-		
+	
 		int a = 15;
 		
 		for (int i = 0; i <  3; i++ ){
@@ -31,8 +31,4 @@ public class TwoDimensional {
 	{
 		System.out.println(TwoDim[2][2]);
 	}
-		/*int [] R= {1,2,3,4,5,6,7,8,9,10};
-		for (int ramp: R)
-		{
-			System.out.println(ramp);
-		}*/
+		*/
