@@ -1,0 +1,16 @@
+package Methods;
+ public static ClassA() {
+        System.out.println("Hello Class A");
+
+    }
+    ClassB(){
+        System.out.println("Hello Class B");
+    }
+public class MethodOverridding {
+    
+    public static void main(String[] args) {
+
+        
+    }
+
+}
