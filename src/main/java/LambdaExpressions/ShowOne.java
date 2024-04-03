@@ -7,6 +7,6 @@ public class ShowOne {
         show showA = () -> System.out.println("Show");
         
         // Calling the startShowing method
-        //showA.startShowing();
+        showA.startShowing();
     }
 }
